@@ -1,5 +1,5 @@
-function sum(a, b) {
-  return a + b;
-}
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { Sum } from './Sum';
 
-sum(1, 2);
+ReactDOM.render(<Sum />, document.querySelector('#app'));
