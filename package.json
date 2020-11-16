@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ./src"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["webpack", "eslint", "husky"],
+  "author": "YuriiHoliuk",
   "license": "ISC",
   "husky": {
     "hooks": {
